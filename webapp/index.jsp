@@ -94,7 +94,7 @@ Welcome to the Apna bank!
 <br><br>
 <footer>
 	<center>
-	<p>&copy 2021. Made by <b>SHIVANSHU GAUTAM</b></p>
+	<p>&copy 2023. Made by <b>Rutika Kale</b></p>
 	</center>
 	</footer>
 </body>
